@@ -8,12 +8,12 @@ A secure and lightweight digital wallet application built with **Java** and **Ja
 - Create and manage digital wallets
 - User authentication system
 - Transaction logging and tracking
-- JavaFX-based intuitive UI
+- Advance HTML and CSS based UI
 - Modular and extensible code structure
 
 ## Tech Stack
-- Java
-- JavaFX
+- Solidity and Java script(For backend part)
+- HTML and CSS (For frontend part)
 - File-based data storage (can be upgraded to blockchain-backed)
 - OOP Design Principles
 
